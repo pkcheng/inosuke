@@ -1,0 +1,14 @@
+.trending {
+  color: #ffffff;
+}
+
+.anime-img {
+  border-radius: 5px;
+  height: 325px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.anime-content span {
+  margin-right: 5px;
+}

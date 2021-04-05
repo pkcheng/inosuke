@@ -1,0 +1,12 @@
+.category {
+  color: white;
+}
+
+.category a {
+  color: white;
+  text-decoration: none;
+}
+
+.category i {
+  margin-right: 5px;
+}

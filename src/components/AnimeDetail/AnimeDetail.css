@@ -1,0 +1,18 @@
+.anime-detail {
+  color: white;
+}
+
+.anime-detail a {
+  color: white;
+  text-decoration: none;
+}
+
+.anime-detail i {
+  margin-right: 5px;
+}
+
+.anime-content .anime-img {
+  border-radius: 5px;
+  object-fit: cover;
+  width: 100%;
+}

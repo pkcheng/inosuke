@@ -1,0 +1,19 @@
+.search-result {
+  color: white;
+}
+
+.page-item a {
+  padding: 12px;
+  color: white;
+  border-style: none;
+  background-color: #22212c;
+}
+
+.page-item a:hover {
+  color: black;
+}
+
+.page-item .disabled {
+  background-color: #1f1e29;
+  pointer-events: none;
+}

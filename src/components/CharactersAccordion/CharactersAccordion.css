@@ -1,0 +1,17 @@
+.card {
+  border-color: #e0e0e1;
+  border-width: 2px;
+}
+
+.card-header {
+  background-color: #22212c;
+}
+
+.card a {
+  color: white;
+  font-weight: 400;
+}
+
+.card-body {
+  background-color: #171620;
+}

@@ -1,0 +1,31 @@
+.slide-player img {
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.carousel {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.slide-player h5 {
+  font-family: "Montserrat Black";
+  font-size: 25px;
+  text-shadow: 2px 2px #000000;
+}
+
+.slide-player p {
+  font-family: "Montserrat Light";
+  font-size: 18px;
+  text-shadow: 1.5px 1.5px #000000;
+}
+
+.slide-player button {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.slide-player a button {
+  border-radius: 25px;
+  padding: 8px;
+  display: inline-flex;
+  align-items: center;
+}

@@ -1,0 +1,31 @@
+.categories {
+  color: white;
+}
+
+.categories a {
+  color: white;
+  text-decoration: none;
+}
+
+.categories i {
+  margin-right: 5px;
+}
+
+.categories .card {
+  border-style: none;
+  border-radius: 5px;
+}
+
+.categories .card-body {
+  border-radius: 10px;
+  background-color: #22212c;
+}
+
+.categories button {
+  text-align: center;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.categories button:hover {
+  transform: scale(1.05);
+}

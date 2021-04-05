@@ -1,0 +1,18 @@
+.anime-card .anime-img {
+  border-radius: 5px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.anime-content span {
+  margin-right: 5px;
+}
+
+.anime-card .badge {
+  border-radius: 15px;
+}
+
+.anime-title a {
+  font-size: 18px;
+  color: white !important;
+}
